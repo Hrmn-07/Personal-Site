@@ -40,6 +40,8 @@ export default function Hero() {
           <Link to="contact" smooth={true} duration={800}>
             <Button
               size="lg"
+              id="contact"
+              title="Contact Me"
               className="hover:scale-105 transition-all w-4/12 text-xl hover:bg-blue-400"
             >
               Contact Me
