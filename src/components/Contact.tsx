@@ -63,7 +63,7 @@ export default function Contact() {
               variant="outline"
               size="lg"
               className="hover:scale-105 shadow-xl bg-black text-white hover:bg-blue-500 hover:text-white"
-              onClick={() => window.open("https://github.com/Hrmn-07")}
+              onClick={() => window.open("https://github.com/Hrmn-07/personal-site")}
             >
               <Github className="h-4 w-4" />
             </Button>
